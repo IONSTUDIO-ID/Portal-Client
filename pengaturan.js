@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "IONSTUDIO.ID",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBXrNc8J4w_Ej_mNhyMdBwu64VbHJYkQZg",
     whatsappAdmin: "628978859611" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
